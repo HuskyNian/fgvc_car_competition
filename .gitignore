@@ -1,0 +1,12 @@
+*.docx
+/final
+/docker
+/car_data
+*.pth
+/train/LB
+/train/results
+/train/images
+/train/results
+/train/runs
+/train/test1
+/train/train
